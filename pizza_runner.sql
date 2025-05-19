@@ -93,8 +93,6 @@ INSERT INTO pizza_toppings (topping_id, topping_name) VALUES
 (11, 'Tomatoes'),
 (12, 'Tomato Sauce');
 
--- ✅ Sample Pizza Runner Questions Answered Below
-
 -- 1. How many pizzas were ordered?
 SELECT COUNT(*) AS total_pizzas_ordered FROM customer_orders;
 
