@@ -46,9 +46,6 @@ INSERT INTO subscriptions (customer_id, plan_id, start_date) VALUES
 (9, 3, '2020-09-29'),
 (10, 0, '2020-10-03');
 
--- ✅ Ready for solution queries (to be added)
-
-
 -- Q1. How many customers has Foodie-Fi ever had?
 SELECT COUNT(DISTINCT customer_id) AS total_customers
 FROM subscriptions;
