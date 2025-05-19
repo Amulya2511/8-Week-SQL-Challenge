@@ -59,7 +59,7 @@ INSERT INTO sales VALUES
 (5, 9, '2020-03-02', 1, 300.00),
 (2, 10, '2020-03-05', 1, 200.00);
 
--- 3. Challenge Questions and Solutions
+-- 3. Questions and Solutions
 
 -- Q1. Unique customers per campaign
 SELECT c.campaign_id, COUNT(DISTINCT s.cust_id) AS unique_customers
