@@ -4,15 +4,14 @@ This repository contains my complete solutions to the [8 Week SQL Challenge](htt
 
 ## Case Studies Covered
 
-1. *Danny's Dinner* – Sales & customer analysis  
-2. *Pizza Runner* – Delivery performance & operations  
-3. *foodie_fi_setup* – User data growth analysis  
-4. *Data Bank* – Financial transactions & data quality  
-5. *Data Mart* – Customer journey & sales funnel  
-6. *Clique_bait* – User web activity analytics  
-7. *Balanced Tree* – HR & employee analytics  
-8. *Fresh Segments* – Marketing segmentation analysis
-9. *ecommerce platform* 
+1. *Pizza Runner* – Delivery performance & operations  
+2. *foodie_fi_setup* – User data growth analysis  
+3. *Data Bank* – Financial transactions & data quality  
+4. *Data Mart* – Customer journey & sales funnel  
+5. *Clique_bait* – User web activity analytics  
+6. *Balanced Tree* – HR & employee analytics  
+7. *Fresh Segments* – Marketing segmentation analysis
+8. *ecommerce platform* 
 
 Each folder contains:
 - Database schema creation
